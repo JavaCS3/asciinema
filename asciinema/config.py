@@ -9,7 +9,7 @@ class ConfigError(Exception):
     pass
 
 
-DEFAULT_API_URL = 'https://asciinema.org'
+DEFAULT_API_URL = 'https://localhost'
 DEFAULT_RECORD_ENV = 'SHELL,TERM'
 
 
